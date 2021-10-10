@@ -141,7 +141,7 @@ html{
       position: relative;
       margin-top: 46px;
       padding-top: 50%;
-      background: url('/html-css-1/assets/slider1.jpg')top center/ cover no-repeat;
+      background: url('../img/slider1.jpg')top center/ cover no-repeat;
 }
 #slider .text-content{
       position: absolute;
